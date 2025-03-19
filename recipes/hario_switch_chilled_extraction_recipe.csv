@@ -1,0 +1,7 @@
+start_time,end_time,water_vol,center_pour,water_temp,hario_switch_immersion,paragon_extract_chilling
+00:00,00:00,60,FALSE,94,FALSE,TRUE
+00:40,00:40,40,FALSE,94,FALSE,FALSE
+01:05,01:05,0,,,TRUE,FALSE
+01:10,01:20,130,FALSE,94,TRUE,FALSE
+02:00,02:00,0,,,FALSE,FALSE
+03:00,03:00,0,,,FALSE,FALSE
