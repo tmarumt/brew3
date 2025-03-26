@@ -1,0 +1,7 @@
+- name: "Hario Switch Chilled Extraction Recipe"
+  ratio: 15
+  time: "3:00"
+  grind_size: 28
+  dripper: "Hario Switch (V60 02 size)"
+  filter: "CAFEC Abaca cone 1cup"
+  stand: "Paragon V2"
