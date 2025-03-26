@@ -1,4 +1,4 @@
-FROM rocker/tidyverse
+FROM rocker/tidyverse:4.4.3
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     openssh-client \
@@ -26,3 +26,5 @@ RUN python3 -m pip config set global.break-system-packages true && \
     pipx install --include-deps dvc[gdrive]
 
 USER root
+
+RUN /rocker_scripts/install_shiny_server.sh
