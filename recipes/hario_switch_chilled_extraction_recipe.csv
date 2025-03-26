@@ -1,0 +1,6 @@
+start_time,end_time,water_vol,water_temp,immersion,extract_chilling,pourover_aid,stir,Note
+0:00,0:00,60.0,94.0,FALSE,TRUE,FALSE,TRUE,
+0:40,0:40,40.0,94.0,FALSE,FALSE,FALSE,FALSE,"After pouring, lower water to 70 C"
+1:05,1:05,0.0,94.0,TRUE,FALSE,FALSE,FALSE,
+1:10,1:20,130.0,70.0,TRUE,FALSE,TRUE,FALSE,
+2:00,2:00,0.0,70.0,FALSE,TRUE,TRUE,FALSE,
